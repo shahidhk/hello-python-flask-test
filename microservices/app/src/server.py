@@ -4,7 +4,7 @@ from src import app
 
 @app.route("/")
 def home():
-    return "Hasura Hello World!!!!! 123456"
+    return "Hasura Hello World!!!!! 12345678910"
 
 # Uncomment to add a new URL at /new
 
